@@ -1,6 +1,6 @@
 # Hi there, I'm Damian 👋
 
-I am a **BSc Computer Science and Cybersecurity (with Professional Training Year)** student at the **University of Surrey**. I'm passionate about building resilient software, exploring offensive and defensive security, and understanding how systems break—and how to harden them.
+I am a **BSc Computer Science and Cybersecurity (with Professional Training Year)** student at the **University of Surrey**.
 
 ---
 
